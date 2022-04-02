@@ -1,4 +1,4 @@
-# Next.js TypeScript Starter Kit [![CircleCI](https://circleci.com/gh/deptno/next.js-typescript-starter-kit.svg?style=svg)](https://circleci.com/gh/deptno/next.js-typescript-starter-kit)
+# Next.js TypeScript Starter Kit [![CircleCI](https://circleci.com/gh/alwayswelcom/NEXT-start-kit.svg?style=svg)](https://circleci.com/gh/alwayswelcom/NEXT-start-kit)
 
 ![samples](assets/samples.png)
 
@@ -18,7 +18,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/deptno/next.js-typescript-starter-kit my-project
+git clone https://github.com/alwayswelcom/NEXT-start-kit my-project
 cd my-project
 rm -r .git
 yarn
@@ -132,9 +132,9 @@ export const Home = props =>
 
 #### Others
 
-- styled-jsx/css [issue#2](https://github.com/deptno/next.js-typescript-starter-kit/issues/2)
-- external css, module [issue#3](https://github.com/deptno/next.js-typescript-starter-kit/issues/3)
+- styled-jsx/css [issue#2](https://github.com/alwayswelcom/NEXT-start-kit/issues/2)
+- external css, module [issue#3](https://github.com/alwayswelcom/NEXT-start-kit/issues/3)
 
 ### Related
 
-- [typescript-monorepo-next-example](https://github.com/deptno/typescript-monorepo-next-example) - Next.js version
+- [typescript-monorepo-next-example](https://github.com/alwayswelcom/typescript-monorepo-next-example) - Next.js version
