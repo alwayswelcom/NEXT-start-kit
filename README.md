@@ -129,10 +129,3 @@ export const Home = props =>
     home
   </div>
 ```
-
-#### Others
-
-- styled-jsx/css [issue#2](https://github.com/alwayswelcom/NEXT-start-kit/issues/2)
-- external css, module [issue#3](https://github.com/alwayswelcom/NEXT-start-kit/issues/3)
-
-
